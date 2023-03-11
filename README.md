@@ -7,3 +7,6 @@ some course materials for my university
 
 ## 高代
 《线性代数应该这样学》(第三版)答案：https://linearalgebras.com/
+
+## 数据库
+Home page of Database System Concepts: https://www.db-book.com/
