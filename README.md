@@ -10,3 +10,6 @@ some course materials for my university
 
 ## 数据库
 Home page of Database System Concepts: https://www.db-book.com/
+
+## Data Structure - 邓俊辉
+Home page: https://dsa.cs.tsinghua.edu.cn/~deng/index.htm
