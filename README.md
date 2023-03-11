@@ -11,5 +11,11 @@ some course materials for my university
 ## 数据库
 Home page of Database System Concepts: https://www.db-book.com/
 
-## Data Structure - 邓俊辉
-Home page: https://dsa.cs.tsinghua.edu.cn/~deng/index.htm
+## Data Structure
+- 邓俊辉Home page: https://dsa.cs.tsinghua.edu.cn/~deng/index.htm
+- 数据结构可视化：https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+
+## 数学工具
+- 矩阵运算：https://www.matrixcalculus.org/
+- 微积分：https://www.matrixcalculus.org/
