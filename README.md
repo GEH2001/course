@@ -12,6 +12,8 @@ some course materials for my university
 Home page of Database System Concepts: https://www.db-book.com/
 
 完整答案：https://github.com/noahabe/database_system_concepts_answers
+## 算法分析与设计基础
+CLRS-solutions: https://atekihcan.github.io/CLRS/foreword/
 
 ## Data Structure
 - 邓俊辉Home page: https://dsa.cs.tsinghua.edu.cn/~deng/index.htm
