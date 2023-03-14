@@ -1,5 +1,7 @@
 # course
 some course materials for my university
+## 软院课程攻略
+https://github.com/Starrah/THSS-CRACKER
 
 ## 图论
 第二版：https://www.doc88.com/p-9955153516128.html
