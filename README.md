@@ -1,5 +1,8 @@
 # course
 some course materials for my university
+## CS自学指南
+https://csdiy.wiki/
+
 ## 软院课程攻略
 https://github.com/Starrah/THSS-CRACKER
 
