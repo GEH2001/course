@@ -13,6 +13,8 @@ https://ssast-readme.github.io/
 ## 贵系课程攻略
 https://github.com/PKUanonym/REKCARC-TSC-UHT
 
+https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html
+
 ## 计算机系学生科协技能引导文档
 https://docs.net9.org/
 
