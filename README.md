@@ -1,5 +1,5 @@
 # course
-some course materials for my university
+Some course references
 ## CS自学指南
 https://csdiy.wiki/
 
